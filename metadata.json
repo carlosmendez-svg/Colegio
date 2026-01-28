@@ -1,0 +1,7 @@
+{
+  "name": "Explora Venezuela: Mi País Educativo",
+  "description": "Una aplicación interactiva para que estudiantes de 6to grado aprendan sobre los estados de Venezuela, su geografía, economía y cultura usando inteligencia artificial avanzada.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
